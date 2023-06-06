@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+안녕 <br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenkrew3000)](https://github.com/anuraghazra/github-readme-stats)

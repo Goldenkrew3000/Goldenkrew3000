@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 안녕 <br>
-[![Goldenkrew3000's GitHub stats-shades-of-purple](https://github-readme-stats.vercel.app/api?username=goldenkrew3000)](https://github.com/anuraghazra/github-readme-stats)
+[![Goldenkrew3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenkrew3000?theme=shades-of-purple&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)

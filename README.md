@@ -10,7 +10,7 @@ To see... <br>
 To see... <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=hisense_watch4&theme=shades-of-purple)](https://github.com/goldenkrew3000/hisense_watch4) <!-- hisense_watch4 -->
 
-To see my attempt to bring up a custom ROM on a Samsung A326B:
+To see my attempt to bring up a custom ROM on a Samsung A326B: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=twrp_samsung_a32x&theme=shades-of-purple)](https://github.com/goldenkrew3000/twrp_samsung_a32x) <!-- twrp_samsung_a32x -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=android_device_samsung_a32x&theme=shades-of-purple)](https://github.com/goldenkrew3000/android_device_samsung_a32x) <!-- android_device_samsung_a32x -->
 

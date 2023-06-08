@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안녕 <br>
-[![Goldenkrew3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenkrew3000&theme=shades-of-purple&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkrew3000&theme=shades-of-purple&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+Heyooo!<br>
+
+
+
+[![Goldenkrew3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenkrew3000&theme=shades-of-purple&show-icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkrew3000&theme=shades-of-purple&layout=donut)]
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=MalextyST)](https://github.com/goldenkrew3000/MalextyST) <!-- MalextyST -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=owm_weather&theme=shades-of-purple)](https://github.com/goldenkrew3000/owm_weather) <!-- OWM_Weather -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=hisense_watch4&theme=shades-of-purple)](https://github.com/goldenkrew3000/hisense_watch4) <!-- hisense_watch4 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=twrp_samsung_a32x&theme=shades-of-purple)](https://github.com/goldenkrew3000/twrp_samsung_a32x) <!-- twrp_samsung_a32x -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goldenkrew3000&repo=android_device_samsung_a32x&theme=shades-of-purple)](https://github.com/goldenkrew3000/android_device_samsung_a32x) <!-- android_device_samsung_a32x -->

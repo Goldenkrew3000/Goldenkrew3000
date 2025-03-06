@@ -1,5 +1,5 @@
 ## meow :3
-### it's been fun, i guess. thank you everyone for the fun times. may you all achieve greatness <3
+### it's been fun, i guess. thank you everyone for everything. may you all achieve greatness <3
 <!-- ### Pls visit my website, it's hosted on a Nintendo Wii running NetBSD \\(^_^)/ (in bio) (currently offline) -->
 
 [![Goldenkrew3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenkrew3000&theme=shades-of-purple&show-icons=true)]()

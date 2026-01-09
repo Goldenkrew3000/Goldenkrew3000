@@ -10,6 +10,9 @@ A list of my main projects:
 OSSP (https://github.com/goldenkrew3000/OSSP_OpenSource)
 OSSP is -
 
+Desk Clock (https://github.com/goldenkrew3000/DeskClock) *Private until I finish it*
+--
+
 T720 PostmarketOS (https://github.com/goldenkrew3000/T720-PostmarketOS)
 An abandoned effort of porting the Samsung Galaxy T720 (SM-T720) to Mainline Linux.
 There is a working touchscreen driver, and some other half reverse engineered and reimplemented drivers
@@ -38,6 +41,6 @@ This fork has been made for personal use, and contains many patches that no one 
 The patches are:
  - Removed most of the lighting effects, and added a completely white effect (Although in person,
    it has a slightly blue tint due to how non RGBW LED diodes appear)
- - Added support for native use in FreeBSD
+ - Works in FreeBSD natively
  - The USB VID/PID are set to a Logitech K120 (To help with extreme edge cases in unique operating
    systems)

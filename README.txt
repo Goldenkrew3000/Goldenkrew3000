@@ -8,7 +8,14 @@ You can contact me at:
 A list of my main projects:
 
 OSSP (https://github.com/goldenkrew3000/OSSP_OpenSource)
-OSSP is -
+OSSP is a versatile audio player (Targeting Subsonic/OpenSubsonic servers but eventually local playback) with
+native support for custom audio pipelines to add filters (Equalizers, Pitch changing, Reverb etc) on UNIX/Unix-like
+operating systems (Also works under WSL, but I am NOT adding Win32 support).
+Now, you might think that this is kind of pointless, like just run an equalizer in another program. BUT - On operating
+systems such as FreeBSD or macOS, Equalizers are often paid (macOS), or just don't really exist (FreeBSD). Not to mention
+other features like Filters, Pitch adjustment, Reverberation etc.
+This is my main project, and probably the thing I am most proud of, but keep in mind that this is also just a hobby
+project and development is not consistent.
 
 Desk Clock (https://github.com/goldenkrew3000/DeskClock) *Private until I finish it*
 --

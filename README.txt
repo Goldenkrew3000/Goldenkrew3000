@@ -30,8 +30,8 @@ Hojuix (https://github.com/goldenkrew3000/Hojuix)
 Hojuix is a simple x86_64 monolithic kernel (Development currently on pause).
 It uses Limine as a bootloader, and mlibc as it's libc (Although those changes are not pushed yet).
 Due to my absolutely horrific memory management system, it only boots on half the hardware I have tested,
-but the weirdest part is that it doesn't work under Coreboot with EDK2. Memory allocation is horrifically slow anyway
-so it'd need a rewrite.
+but weirdly, it doesn't work under Coreboot with EDK2. Memory allocation is horrifically slow so the
+memory management system needs a rewrite anyway.
 
 And some of my other mini projects:
 

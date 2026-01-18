@@ -49,5 +49,7 @@ The patches are:
  - Removed most of the lighting effects, and added a completely white effect (Although in person,
    it has a slightly blue tint due to how non RGBW LED diodes appear)
  - Works in FreeBSD natively
- - The USB VID/PID are set to a Logitech K120 (To help with extreme edge cases in unique operating
-   systems)
+ - The USB VID/PID/Manufacturer text/Product text/bcdDevice are set to that of a Logitech K120
+   effectively spoofing it as a generic USB keyboard to the operating system
+ - Removed all of the fancy side LED stuff, only utilizing them for status indicators
+ - Changed color of Caps lock indicator to green
